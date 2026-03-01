@@ -1,0 +1,8 @@
+public class areaofcircle {
+    public static void main(String[] args) {
+        double r = (double)5.0F;
+        double pi = 3.14;
+        double a = pi * r * r;
+        System.out.println("The area of circle is: " + a);
+    }
+}
